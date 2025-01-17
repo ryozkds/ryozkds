@@ -2,7 +2,7 @@ import requests
 import csv
 
 # APIキー
-API_KEY = 'bleeranatos'  # 取得したAPIキーをここに入力
+API_KEY = 'YOUR_API_KEY'  # 取得したAPIキーをここに入力
 
 # ユーザーからクエリを入力
 query = input("検索クエリを入力してください: ")
